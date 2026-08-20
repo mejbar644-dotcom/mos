@@ -9,7 +9,7 @@ RESET=$(tput sgr0)
 echo -e "${CYAN}"
 echo "===================================="
 echo "          GitHub: Netplas"
-echo "         "Tunnel v3"
+echo "           Tunnel v3"
 echo "===================================="
 echo -e "${RESET}"
 
